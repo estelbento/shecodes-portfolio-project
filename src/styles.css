@@ -17,7 +17,6 @@ h5,
 h6 {
   color: black;
   font-family: var(--heading-font-family);
-  font-weight: bold;
 }
 
 h1 {
@@ -47,7 +46,6 @@ p {
 
 .hero p {
   font-size: 36px;
-  font-weight: bold;
   margin: 0;
   color: #272142;
 }
@@ -106,11 +104,11 @@ p {
 }
 
 .project-description {
-  padding: 120px 60px;
+  padding: 40px 60px;
 }
 
 .logo {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 nav {
